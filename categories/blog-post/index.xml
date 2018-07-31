@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Post on projects</title>
+    <link>https://belyctc.github.io/categories/blog-post/</link>
+    <description>Recent content in Blog Post on projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://belyctc.github.io/categories/blog-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>zi-x</title>
+      <link>https://belyctc.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://belyctc.github.io/posts/my-first-post/</guid>
+      <description> My First Post Hi! Welcome to zi-x. zi-x mean something that it can
+Subjects  Python Programming Hugo flask html clss  My Hobby  Playing football Texting with girls jooking Drum  </description>
+    </item>
+    
+  </channel>
+</rss>
